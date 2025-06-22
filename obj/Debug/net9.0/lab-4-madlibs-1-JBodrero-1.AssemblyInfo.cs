@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lab-4-madlibs-1-JBodrero-1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54d74add2bddf2330a8e4e4d6777369d0c7ff667")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d5fadb377b800c9ccf6e67148281ac4ca934890")]
 [assembly: System.Reflection.AssemblyProductAttribute("lab-4-madlibs-1-JBodrero-1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lab-4-madlibs-1-JBodrero-1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
